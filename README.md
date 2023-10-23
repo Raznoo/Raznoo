@@ -6,7 +6,6 @@
 <table>
     <tr>
         <td>
-            <table>
                 <tr>
                     <td>
                         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raznoo&theme=radical&card_width=500"
@@ -19,7 +18,6 @@
                             alt="Raznoo" />
                     </td>
                 </tr>
-            </table>
         </td>
         <td valign="top">
             <img
